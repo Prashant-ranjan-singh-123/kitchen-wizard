@@ -7,23 +7,23 @@ Flutter Unwrapped unlocks the world of Flutter development on your mobile device
 # Images 🖼️
 
 ## ⚫ Splash Screen ⚫
-<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_1.png" width="300">
+<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_1.png" width="300">
 
 ## ⚫ App Screens ⚫
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_2.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_3.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_4.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_5.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_6.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_7.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_8.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_9.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_10.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_11.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_12.png" style="width: 200px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/readme_image/screen_13.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_2.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_3.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_4.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_5.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_6.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_7.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_8.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_9.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_10.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_11.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_12.png" style="width: 200px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_13.png" style="width: 200px; margin: 10px;">
 </div>
 
 ## 🙋 Support
