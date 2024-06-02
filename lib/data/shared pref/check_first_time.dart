@@ -25,7 +25,7 @@ class _CheckFirstTimeState extends State<CheckFirstTime> {
       await prefs.setBool('isFirst', false);
       return true;
     } else {
-      // await prefs.setBool('isFirst', true);
+      await prefs.setBool('isFirst', true);
       return false;
     }
   }
@@ -36,7 +36,7 @@ class _CheckFirstTimeState extends State<CheckFirstTime> {
       future: ifFirstRun(),
       builder: (context, snapshot) {
         if (snapshot.connectionState == ConnectionState.waiting) {
-          return const CircularProgressIndicator();
+          return const Center(child: CircularProgressIndicator());
         } else {
           if (snapshot.data == true) {
             return const OnBoardingScreen();
