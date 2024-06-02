@@ -6,12 +6,13 @@ Kitchen Wizard unlocks the world of recipes on your mobile device. This comprehe
 
 # Images 🖼️
 
-## ⚫ Splash Screen ⚫
+## ⚫ Demonstration Video⚫
 <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_1.png" width="300">
 
 ## ⚫ App Screens ⚫
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_1.png" style="width: 200px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_2.png" style="width: 200px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_3.png" style="width: 200px; margin: 10px;">
     <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/kitchen-wizard/master/readme_image/screen_4.png" style="width: 200px; margin: 10px;">
