@@ -1,6 +1,6 @@
 # 🖩 Book Mania: Mastering the Art Of Learning 🖩
 
-![App Icon](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/assets/images/icon.png)
+[//]: # (![App Icon]&#40;https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Book-Mania/master/assets/images/icon.png&#41;)
 
 Flutter Unwrapped unlocks the world of Flutter development on your mobile device.  This comprehensive app empowers you to learn the fundamentals, build practical skills, and prepare for your Flutter developer journey.  From streamlined installation to free UI kits, Flutter Unwrapped equips you for success.
 
